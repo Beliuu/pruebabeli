@@ -1,0 +1,90 @@
+body {
+    background-color: rgba(114, 89, 225, 0.2);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.barranav {
+    background: rebeccapurple;
+    height:50px;
+    box-shadow: 10px 10px 10px rgb(153, 108, 197);
+}
+.barranav {
+    background: rebeccapurple;
+    height:50px;
+    box-shadow: 10px 10px 10px rgb(153, 108, 197);
+}
+
+.barranav ul{
+    list-style-type: none;
+    padding: 0px;
+    overflow: hidden;
+}
+
+.barranav ul li {
+    float:right;
+}
+
+.barranav ul li a {
+    padding: 15px 15px;
+    display: block;
+    text-align: center;
+    color: white;
+}
+
+.barranav ul li a:hover {
+    background-color: white;
+    color: rebeccapurple;
+    transform: translateY(-3px);
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.cuadroo {
+    width: px;
+}
+
+.cuadroo h1{
+    text-align: center;
+    font-family: calibri light;
+}
+
+.cuadroo h2 {
+    color: rgb(238, 165, 105);
+    font-family: Calibri light;
+    font-size: 25px;
+    text-align: center;
+}
+
+.cuadroo p {
+    color:rgb(75, 27, 122);
+    text-align: center;
+    font-family: arial;
+}
+
+.botonsito button {
+    background: transparent;
+    border: transparent;
+    padding: 50px 50px;
+    margin: 1px 200px;
+}
+
+.botonsito button a{
+    background:rebeccapurple;
+    color: white;
+    border-radius: 40px;
+    border: none;
+    width:100px;
+    padding:20px;
+    font-size: 11px;
+    box-shadow: 10px 10px 10px rebeccapurple
+}
+
+.botonsito button a:hover {
+    background-color: rgb(131, 54, 209);
+    color: white;
+    transform: translateY(-1);
+    font-size: 12px;
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px rgb(153, 108, 197);
+
+}
